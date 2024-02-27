@@ -22,7 +22,6 @@ export default function Page() {
             </a>
             , brought to you by Vercel.
           </p>
-          import styles from '@/app/ui/home.module.css';
           <div className={styles.shape} />;
           <Link
             href="/login"
